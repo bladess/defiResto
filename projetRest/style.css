@@ -1,3 +1,47 @@
+
+.services{
+	background: url("Img/cooking-1013455_960_720.jpg");
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	font-weight:900;
+	weight:20px;
+  height:600px;
+
+}
+
+
+.image2{
+	display:flex;
+	justify-content:space-around;
+  padding: 20px
+  
+
+  /*opacity: 0.5;*/
+  
+}
+.image3{
+
+	background-color:rgba(255,255,255,0.5);
+	-moz-border-radius:10px 0;
+-webkit-border-radius:10px 0;
+border-radius:25px 0;
+
+}
+
+.image21{
+	display: flex;
+	flex-direction: column;
+}
+
+h3 {
+	color: White;
+	text-align: center;
+}
+p{
+	color: White;
+	text-align: center;
+}
+
 .header{
 	background-image:url("Img/test.jpg");
 }
