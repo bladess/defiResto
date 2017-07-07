@@ -1,5 +1,5 @@
 .header{
-	background-image:url("http://lorempixel.com/400/200/food");
+	background-image:url("Img/test.jpg");
 }
 .menu{
 	margin-left: 50px;
@@ -64,4 +64,7 @@
 	background:white;
 	color:orange;
 
+}
+footer{
+	background:orange;
 }	
