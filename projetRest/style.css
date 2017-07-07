@@ -12,9 +12,13 @@
 .itemMenu a{
 	text-decoration: none;
 	color : white;
+    font-family: 'Pacifico', cursive;
+    border-radius:10px 10px;
+
 }
 .itemMenu a:hover{
 	color: orange;
+	background:white;
 
 }
 .itemMenu .home{
@@ -29,17 +33,35 @@
 	display:flex;
 	align-items: center;
 	flex-direction: column;
+	font-family: 'Courgette', cursive;
+
 }
 .arrow{
 	font-size: 30px;
 	text-align: center;
 	text-decoration: none;
 	color:white;
+	 border-radius:10px 10px;
 
 }
 .arrow:hover{
 	color:orange;
+	background:white;
 }
 .platDuJour .itemPlat{
-	color: orange;
+	color: white;
+	
+}
+.butt a{
+	padding:5px;
+/*arrondir les coins en haut à gauche et en bas à droite*/
+    border-radius:10px 10px;
+	border: 2px solid white;	
+	color:white;
+	text-decoration: none;
+}
+.butt a:hover{
+	background:white;
+	color:orange;
+
 }	
