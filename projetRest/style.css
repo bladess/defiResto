@@ -63,7 +63,7 @@ p{
 .itemMenu a:hover{
 	color: orange;
 	background:white;
-
+	
 }
 .itemMenu .home{
 	color : orange;
@@ -74,10 +74,12 @@ p{
 }
 
 .platDuJour{
+	margin-top: 125px;
 	display:flex;
 	align-items: center;
 	flex-direction: column;
 	font-family: 'Courgette', cursive;
+
 
 }
 .arrow{
@@ -94,6 +96,7 @@ p{
 }
 .platDuJour .itemPlat{
 	color: white;
+	margin-top: 31px;
 	
 }
 .butt a{
